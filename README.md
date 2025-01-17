@@ -7,23 +7,33 @@ Asteroids é um jogo de arcade com gráficos vetoriais, lançado em 1979 pela At
 👥 Equipe de Desenvolvimento
 
 Antonio Rafael
+
 Lanna Maria
+
 Maria Lauriane
+
 Pâmela Roberto
 
 Controles do Jogo
 
 🟢 Start Game: Iniciar o jogo
+
 ⏸️ Pause Game: Pausar o jogo
+
 ▶️ Resume Game: Retomar o jogo após pausa
+
 ❌ Quit Game: Sair do jogo
+
 ⬅️➡️ A e D: Girar a nave
+
 ⬆️ W: Acelerar a nave
+
 🔫 Space: Atirar
 
 Tecnologias Utilizadas
 
 💻 Linguagem de Programação: C
+
 🖥️ Biblioteca Gráfica: OpenGL
 
 🖥️ Interface do Jogo
@@ -39,5 +49,7 @@ Tela do jogo
 Referências
 
 📚 Material visto em aula
+
 🎥 Vídeos tutoriais no YouTube
+
 🎮 Jogo original Asteroids (Atari, 1979)
