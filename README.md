@@ -13,25 +13,18 @@ Pâmela Roberto <br>
 
 Controles do Jogo
 
-🟢 Start Game: Iniciar o jogo
-
-⏸️ Pause Game: Pausar o jogo
-
-▶️ Resume Game: Retomar o jogo após pausa
-
-❌ Quit Game: Sair do jogo
-
-⬅️➡️ A e D: Girar a nave
-
-⬆️ W: Acelerar a nave
-
+🟢 Start Game: Iniciar o jogo <br>
+⏸️ Pause Game: Pausar o jogo <br>
+▶️ Resume Game: Retomar o jogo após pausa <br>
+❌ Quit Game: Sair do jogo <br>
+⬅️➡️ A e D: Girar a nave <br>
+⬆️ W: Acelerar a nave <br>
 🔫 Space: Atirar
 
 Tecnologias Utilizadas
 
-💻 Linguagem de Programação: C
-
-🖥️ Biblioteca Gráfica: OpenGL
+💻 Linguagem de Programação: C <br>
+🖥️ Biblioteca Gráfica: OpenGL <br>
 
 🖥️ Interface do Jogo
 
@@ -45,8 +38,6 @@ Tela do jogo
 
 Referências
 
-📚 Material visto em aula
-
-🎥 Vídeos tutoriais no YouTube
-
+📚 Material visto em aula <br>
+🎥 Vídeos tutoriais no YouTube <br>
 🎮 Jogo original Asteroids (Atari, 1979)
