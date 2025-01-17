@@ -6,13 +6,10 @@ Asteroids é um jogo de arcade com gráficos vetoriais, lançado em 1979 pela At
 
 👥 Equipe de Desenvolvimento
 
-Antonio Rafael
-
-Lanna Maria
-
-Maria Lauriane
-
-Pâmela Roberto
+Antonio Rafael <br>
+Lanna Maria <br>
+Maria Lauriane <br>
+Pâmela Roberto <br>
 
 Controles do Jogo
 
